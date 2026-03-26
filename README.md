@@ -16,3 +16,16 @@ A modern and responsive Login Form UI built using pure HTML5 and CSS3. This proj
 - CSS3
 
 ## 🛠️ How to Run
+- live link https://janendrasingh.github.io/Login-Format/
+
+## ✨ Customization
+- Edit style.css to change colors and layout
+- Modify index.html to add validation or backend integration
+
+## 📈 Future Improvements
+- Add form validation (JavaScript)
+- Connect to backend (Node.js / PHP)
+- Add social login options
+
+## 🙌 Author
+ Janendra Singh
